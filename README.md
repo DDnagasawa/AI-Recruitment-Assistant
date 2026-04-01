@@ -101,9 +101,4 @@ Both commands pass on the current codebase.
 - Upload, AI scoring, email sending, integrations, and exports are simulated.
 - Backend APIs and real auth/email/calendar integrations are not yet connected.
 
-## Next Suggested Steps
 
-- Connect backend APIs (positions, candidates, invites, settings persistence)
-- Add authentication/authorization and role-based route guards
-- Persist settings and templates to server/database
-- Add E2E tests for key hiring workflows
